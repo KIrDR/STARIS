@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-14T17:45:06.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="X35ABwh07S9WKf-Yu6HM" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-14T17:53:14.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 OPR/97.0.0.0" etag="rvdEBVS-U46itrwGjwwY" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1740" dy="1747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -565,7 +565,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-0" value="Клиент" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-520" y="-840" width="30" height="60" as="geometry" />
+          <mxGeometry x="-460" y="-860" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7PMBk9Fq_HUfBLDLpVW-1" target="h7PMBk9Fq_HUfBLDLpVW-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -578,32 +578,72 @@
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7PMBk9Fq_HUfBLDLpVW-1" target="h7PMBk9Fq_HUfBLDLpVW-10" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-240" y="-759.9999999999999" as="targetPoint" />
+            <mxPoint x="-180" y="-779.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7PMBk9Fq_HUfBLDLpVW-1" target="h7PMBk9Fq_HUfBLDLpVW-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-1" value="Оформление первого заявления&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-440" y="-840" width="140" height="60" as="geometry" />
+          <mxGeometry x="-380" y="-860" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-3" value="Оформление заявления страховой выплаты в соотношении с страховым полисо" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-300" y="-960" width="120" height="110" as="geometry" />
+          <mxGeometry x="-240" y="-980" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-6" value="Оставлние заявки на вызов страхового оценщика&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-160" y="-960" width="120" height="110" as="geometry" />
+          <mxGeometry x="-100" y="-940" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-7" value="Оставлние заявки на вызов страхового оценщика&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-20" y="-865" width="120" height="110" as="geometry" />
+          <mxGeometry x="40" y="-867.5" width="120" height="75" as="geometry" />
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-10" value="Просмотр оформленных полисов&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-300" y="-770" width="120" height="110" as="geometry" />
+          <mxGeometry x="-240" y="-790" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="h7PMBk9Fq_HUfBLDLpVW-11" value="Просмотр состояния заявок (не рассмотрена, выполнена)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-160" y="-770" width="120" height="110" as="geometry" />
+          <mxGeometry x="-100" y="-790" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FD6ZV9bXNqYOlXjp-_gC-0" target="FD6ZV9bXNqYOlXjp-_gC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FD6ZV9bXNqYOlXjp-_gC-0" target="FD6ZV9bXNqYOlXjp-_gC-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="-559" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="FD6ZV9bXNqYOlXjp-_gC-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160" y="-550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FD6ZV9bXNqYOlXjp-_gC-0" target="FD6ZV9bXNqYOlXjp-_gC-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FD6ZV9bXNqYOlXjp-_gC-0" value="Страховой агент&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-520" y="-630" width="30" height="60" as="geometry" />
+          <mxGeometry x="-160" y="-579" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-1" value="Оформление страхового полиса в соответствии с заявлением клиента&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-390" y="-540" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h7PMBk9Fq_HUfBLDLpVW-10" target="h7PMBk9Fq_HUfBLDLpVW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-5" value="Создание кабинета нового пользователя&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="-550" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-6" value="Рассмотрение заявки на страховую выплату&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="-620" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-9" value="Просмотр оформленных страховых полисов&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-390" y="-620" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FD6ZV9bXNqYOlXjp-_gC-12" target="FD6ZV9bXNqYOlXjp-_gC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-12" value="менеджер оценщиков&amp;nbsp;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-460" y="-700" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FD6ZV9bXNqYOlXjp-_gC-13" value="рассмотрени заявок на вызов оценщиков" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="-700" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
